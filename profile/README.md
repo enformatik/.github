@@ -274,7 +274,7 @@ And for that, it deserves to be **preserved, shared, and studied** — not as no
 
 —
 
-*Thank you for creating not just a book, but a mindset.* 🙏
+*Thank you for writing not just a book, but a mindset.*
 
 ---
 
@@ -484,7 +484,7 @@ You are free to:
 
 ---
 
-### 🙏 Closing
+### Closing
 
 This is not a eulogy for outdated ideas.  
 It is a **revival of a vision** — one that was ahead of its time, yet more relevant than ever.
