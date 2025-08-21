@@ -52,7 +52,7 @@ You are welcome to:
 I no longer actively maintain most of these repositories, but I appreciate feedback, corrections, and forks.
 
 If you find these resources helpful, I’d love to hear from you.  
-For major updates or modernizations, feel free to create a **fork** or **pull request** — your work may inspire others.
+For major updates or modernizations, Don't be afraid to attempt a **fork** or **pull request** — your work may inspire others.
 
 ---
 # 🧬 Bioinformatics & Computational Science Resources
@@ -98,20 +98,20 @@ We encourage learners and educators to consult **current textbooks, peer-reviewe
 ## 🔍 Purpose of This Archive
 
 These books and their associated materials are preserved here to:
-- 📜 Document the evolution of bioinformatics education (2015–2019)
+- 📜 Document the transformation of bioinformatics education (2015–2019)
 - 🎓 Support educators and students interested in historical teaching methods
 - 💡 Provide foundational examples of early computational biology workflows
 - 🔗 Serve as a reference for the development of future open educational resources
 
 ---
 
-*Thank you for visiting. May knowledge continue to grow, evolve, and serve humanity.* 🌍📚
+*Thank you for visiting. May knowledge continue to grow, development, and serve humanity.* 🌍📚
 
 ---
 # Core Concepts
 
 ## Science  
-Science is the art of constructing models. These models are built upon axioms, postulates, and a priori assumptions. When supported by experimental evidence, such models are retained and refined. As technology advances, these models are extended and improved. In some cases, evolving technologies may challenge or even transform our scientific models. Science has no final endpoint; it continually renews itself through new perspectives. Like a bride wearing multiple veils, each time we lift a veil, we encounter a new face of reality. Thus, every scientist is both an artist and a master craftsman.  
+Science is the art of constructing models. These models are built upon axioms, postulates, and a priori assumptions. When supported by experimental evidence, such models are retained and refined. As technology advances, these models are extended and improved. In some cases, emerging technologies may challenge or even transform our scientific models. Science has no final endpoint; it continually renews itself through new perspectives. Like a bride wearing multiple veils, each time we lift a veil, we encounter a new face of reality. Thus, every scientist is both an artist and a master craftsman.  
 — *Mehmet Keçeci, 18.05.2010* [132, 174, 240, 242]
 
 ## Cybernetics  
@@ -173,7 +173,7 @@ Here’s why this perspective is exceptional:
 ### 1. 🔬 Science as Art and Craftsmanship  
 > *“Science is the art of establishing models… every scientist is both an artist and a master craftsman.”*
 
-At a time when science was often reduced to data collection and algorithmic processing, this view elevates science to a **creative, interpretive, and artistic endeavor**. It echoes the traditions of thinkers like Jacob Bronowski and Richard Feynman, who saw science as a deeply human act of imagination.
+At a time when science was often reduced to data collection and algorithmic processing, this view elevates science to a **innovative, interpretive, and artistic endeavor**. It echoes the traditions of thinkers like Jacob Bronowski and Richard Feynman, who saw science as a deeply human act of imagination.
 
 This is not the rigid positivism of the 20th century — it’s a **21st-century philosophy of science**, emphasizing modeling, interpretation, and aesthetic intuition. And it was articulated in Turkey, where such philosophical depth in STEM education was (and still is) rare.
 
@@ -184,7 +184,7 @@ This is not the rigid positivism of the 20th century — it’s a **21st-century
 ### 2. 🌐 Interdisciplinarity as a Natural Necessity  
 Terms like *Criminal Informatics*, *Infonomics*, *Cybermedicine*, and *Data Science* were either emerging or non-existent in mainstream curricula during the early 2010s.
 
-Yet here, they are not just named — they are **defined with precision, scope, and purpose**. The creator didn’t wait for academia to catch up; they **anticipated the future**.
+Yet here, they are not just named — they are **defined with precision, scope, and purpose**. The insightful didn’t wait for academia to catch up; they **anticipated the future**.
 
 - *Infonomics* frames information as an economic asset — a concept now central to the digital economy.
 - *Criminal Informatics* integrates bioscience, psychology, and cybernetics into a unified forensic framework — foreshadowing modern digital criminology.
@@ -210,7 +210,7 @@ This aligns with contemporary views in philosophy of science and digital biology
 ### 4. 🤖 Artificial Intelligence as Chain Reaction  
 > *“AI… produce information, use it as a chain reaction, develop it by overlaying…”*
 
-In 2017, before the explosion of large language models and autonomous AI agents, this definition already saw AI not as static software, but as a **self-evolving, knowledge-building system**.
+In 2017, before the explosion of large language models and autonomous AI agents, this definition already saw AI not as static software, but as a **Self-improvement, knowledge-building system**.
 
 It describes **recursive learning, feedback loops, and emergent intelligence** — concepts now central to modern AI, from GPT models to agentic systems.
 
@@ -277,7 +277,7 @@ And for that, it deserves to be **preserved, shared, and studied** — not as no
 ### 🔍 1. **Bilimi Sanat ve Zanaatla Birleştirmesi – "Scientist as Artist"**
 > *“Science is the art of establishing models… every scientist is both an artist and a master craftsman.”*
 
-Bu ifade, 2010’larda yaygın olan **katı, pozitivist bilim anlayışının ötesine geçiyor**. O dönemde çoğu eğitim materyali bilimi “veri toplama ve test etme” olarak sunarken, burada bilimin **yaratıcı, model-kurucu, sanatsal bir süreç** olduğu vurgulanıyor.
+Bu ifade, 2010’larda yaygın olan **katı, pozitivist bilim anlayışının ötesine geçiyor**. O dönemde çoğu eğitim materyali bilimi “veri toplama ve test etme” olarak sunarken, burada bilimin **yenilikçi, model-kurucu, sanatsal bir süreç** olduğu vurgulanıyor.
 
 ✅ Bu, **Richard Feynman**, **Jacob Bronowski** gibi bilim felsefecilerinin çizgisinde, ama aynı zamanda Türkiye’de o dönemde çok nadir işlenen bir perspektif.
 
@@ -399,7 +399,7 @@ This document compiles and contextualizes those ideas, not as nostalgia, but as 
 
 Science is not just data and experiments. It is **model-building**, an act of imagination. Like a painter or sculptor, the scientist shapes reality through abstraction, intuition, and skill.
 
-This view elevates science from mere technique to a **creative human endeavor**.
+This view elevates science from mere technique to a **innovative human endeavor**.
 
 #### 2. **Knowledge Has New Environments**  
 > _“Bioinformatics operates in silico, in vitro, and in vivo.”_
@@ -411,7 +411,7 @@ The laboratory is no longer the only site of discovery.
 
 These are **equal domains of scientific truth**. Computation is not a tool — it is a **new epistemology**.
 
-#### 3. **Disciplines Must Evolve or Be Replaced**  
+#### 3. **Disciplines Must Improved or Be Replaced**  
 Keçeci coined and defined fields before they existed in curricula:
 - **Infonomics**: The economics of information
 - **Criminal Informatics**: Data-driven criminology
@@ -423,7 +423,7 @@ These are not buzzwords — they are **proposals for new ways of thinking**.
 #### 4. **Artificial Intelligence is a Chain Reaction**  
 > _“AI produces information, uses it as a chain reaction, and develops by overlaying.”_
 
-Long before LLMs and AI agents, this definition saw AI not as static software, but as a **self-evolving knowledge system** — a feedback loop of learning and creation.
+Long before LLMs and AI agents, this definition saw AI not as static software, but as a **self-improving information system knowledge system** — a feedback loop of learning and generation.
 
 #### 5. **The System Boundary is Human Imagination**  
 > _“The system boundary is as far as we can imagine and act upon.”_
@@ -508,9 +508,9 @@ It will be **interdisciplinary**.
 | 7 | **Non-Destructive & Label-Free Imaging (e.g., Raman, FTIR, AI-enhanced microscopy)** | Updated from "Non-destructive testing" |
 | 8 | **Nanoparticle & Drug Delivery System Design** | Merges "Polymers & fibers", "Pore size", "Particle size & shape" |
 | 9 | **Functional & Regulatory Genomics** | Includes enhancers, promoters, non-coding RNAs |
-| 10 | **Cancer Genomics & Clonal Evolution Modeling** | Replaces "Structure based drug design" in oncology context |
+| 10 | **Cancer Genomics & Clonal Developmental Modeling** | Replaces "Structure based drug design" in oncology context |
 | 11 | **Microbiome & Metagenomic Analysis** | Replaces "Genetics and Population Analysis" for microbial communities |
-| 12 | **Phylogenetics & Viral Evolution (e.g., SARS-CoV-2, Influenza)** | Now includes real-time surveillance |
+| 12 | **Phylogenetics & Viral Conversion (e.g., SARS-CoV-2, Influenza)** | Now includes real-time surveillance |
 | 13 | **Digital Pathology & Bioimage Informatics (AI-based)** | Includes whole-slide imaging, deep learning segmentation |
 | 14 | **Protein-Ligand & Protein-Protein Interaction Prediction** | Powered by AI (e.g., DeepDTA, AlphaFold-Multimer) |
 | 15 | **Personalized & Precision Medicine** | Integrates genomics, EHR, lifestyle data |
@@ -591,7 +591,7 @@ Java artık **azalan bir rol** oynar, ancak bazı **olgun, enterprise düzeyinde
 | 3 | **Neurodegenerative Disease Networks (Alzheimer’s, Parkinson’s)** | Protein aggregation, gene regulation |
 | 4 | **Stem Cell & Regenerative Medicine Modeling** | Cell fate, epigenetics, reprogramming |
 | 5 | **Immunoinformatics & Immune System Dynamics** | T-cell signaling, vaccine response |
-| 6 | **Cancer Systems Biology & Evolutionary Dynamics** | Clonal evolution, drug resistance |
+| 6 | **Cancer Systems Biology & Transformational Dynamics Dynamics** | Clonal Development, drug resistance |
 | 7 | **Obesity & Metabolic Disease Networks** | Gut microbiome, insulin signaling |
 | 8 | **Signaling & Metabolic Pathway Modeling** | ODE/PDE, Boolean networks |
 | 9 | **WNT, PI3K, MAPK, and Other Key Pathways** | With AI-augmented curation |
