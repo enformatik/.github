@@ -28,11 +28,11 @@ Some repositories have been used in published textbooks and academic courses in 
 
 | Repo | Description |
 |------|-----------|
-| [`bioperl-lectures`](https://github.com/enformatik/bioperl-lectures) | Introduction to BioPerl with practical examples (2013) |
-| [`bioinformatics-tutorials`](https://github.com/enformatik/bioinformatics-tutorials) | Step-by-step guides on BLAST, sequence formats, and file parsing |
-| [`python-for-bioinformatics`](https://github.com/enformatik/python-for-bioinformatics) | Early Python scripts for biological data processing |
-| [`genome-visualization`](https://github.com/enformatik/genome-visualization) | Tools and examples for visualizing genomic data (Artemis, ACT, DNAPlotter) |
-| [`r-for-biostatistics`](https://github.com/enformatik/r-for-biostatistics) | R scripts for statistical analysis in life sciences |
+| [`bioperl-lectures`]() | Introduction to BioPerl with practical examples (2013) |
+| [`bioinformatics-tutorials`]() | Step-by-step guides on BLAST, sequence formats, and file parsing |
+| [`python-for-bioinformatics`]() | Early Python scripts for biological data processing |
+| [`genome-visualization`]() | Tools and examples for visualizing genomic data (Artemis, ACT, DNAPlotter) |
+| [`r-for-biostatistics`]() | R scripts for statistical analysis in life sciences |
 
 > 🔔 **Note**: URLs, software versions, and dependencies may be outdated. Always verify compatibility with current systems.
 
@@ -53,9 +53,6 @@ I no longer actively maintain most of these repositories, but I appreciate feedb
 
 If you find these resources helpful, I’d love to hear from you.  
 For major updates or modernizations, feel free to create a **fork** or **pull request** — your work may inspire others.
-
-📧 Contact: [YourEmail@example.com] *(you can add if you wish)*  
-🌐 Website/Blog: *(optional link)*
 
 ---
 
