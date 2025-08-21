@@ -370,3 +370,134 @@ Bu tanımlar:
 ---
 
 Çünkü bu sadece bir kitap değil — **bir zihniyetin izdüşümü**.
+
+---
+
+
+## 📄 **Manifesto of Interdisciplinary Science**  
+*— A Vision from 2010–2017 for the Future of Science, Technology, and Education*  
+**By Mehmet Keçeci**  
+*Open Access | CC BY 4.0 | https://github.com/enformatik*
+
+---
+
+> _“The greatest breakthroughs are not made within disciplines, but between them.”_  
+> — Unknown
+
+---
+
+### 🌍 Introduction
+
+In the early 2010s, science education was largely siloed: biology here, computer science there, philosophy somewhere else. Yet, the real world — disease, climate, intelligence, society — does not obey disciplinary boundaries.
+
+Between 2010 and 2017, **Mehmet Keçeci**, an educator, researcher, and systems thinker, developed a series of definitions and conceptual frameworks that defied this fragmentation. These writings — originally part of teaching materials and personal reflections — form a quiet but powerful **manifesto for interdisciplinary science**.
+
+This document compiles and contextualizes those ideas, not as nostalgia, but as a **blueprint for the future of science education**.
+
+---
+
+### 🧩 Core Principles
+
+#### 1. **Science is Art and Craftsmanship**  
+> _“Science is the art of establishing models. Every scientist is both an artist and a master craftsman.”_
+
+Science is not just data and experiments. It is **model-building**, an act of imagination. Like a painter or sculptor, the scientist shapes reality through abstraction, intuition, and skill.
+
+This view elevates science from mere technique to a **creative human endeavor**.
+
+#### 2. **Knowledge Has New Environments**  
+> _“Bioinformatics operates in silico, in vitro, and in vivo.”_
+
+The laboratory is no longer the only site of discovery.  
+- **In silico** (in silicon, in code)  
+- **In vitro** (in glass, in cells)  
+- **In vivo** (in life, in organisms)  
+
+These are **equal domains of scientific truth**. Computation is not a tool — it is a **new epistemology**.
+
+#### 3. **Disciplines Must Evolve or Be Replaced**  
+Keçeci coined and defined fields before they existed in curricula:
+- **Infonomics**: The economics of information
+- **Criminal Informatics**: Data-driven criminology
+- **Cybermedicine**: Technology-integrated healthcare
+- **Data Science**: The logic of big data
+
+These are not buzzwords — they are **proposals for new ways of thinking**.
+
+#### 4. **Artificial Intelligence is a Chain Reaction**  
+> _“AI produces information, uses it as a chain reaction, and develops by overlaying.”_
+
+Long before LLMs and AI agents, this definition saw AI not as static software, but as a **self-evolving knowledge system** — a feedback loop of learning and creation.
+
+#### 5. **The System Boundary is Human Imagination**  
+> _“The system boundary is as far as we can imagine and act upon.”_
+
+Systems are not fixed. They are shaped by **perception, intention, and intervention**. This is systems thinking with **philosophical depth** — where engineering meets epistemology.
+
+#### 6. **The Crisis of Cryptogenic Diseases**  
+> _“One of the diseases of our age is the rise of cryptogenic diseases — conditions with unknown causes.”_
+
+In 2016, this insight anticipated the medical challenges of the 2020s: Long COVID, environmental illnesses, multisystem syndromes. Medicine must now confront **uncertainty as a central condition**.
+
+---
+
+### 🔮 Why This Matters Today
+
+These ideas, written over a decade ago, **predict or align with current trends**:
+
+| 2010–2017 Idea | 2025 Reality |
+|---------------|------------|
+| In silico as a scientific domain | Digital twins, AI drug discovery |
+| Data Science as a discipline | Now a standard academic field |
+| Cybermedicine | Telehealth, AI diagnostics, robotic surgery |
+| Infonomics | Data economy, AI ethics, digital labor |
+| AI as recursive learning | LLMs, agentic AI, self-improving systems |
+| Cryptogenic diseases | Post-viral syndromes, environmental health |
+
+This is not coincidence. It is **foresight**.
+
+---
+
+### 🧠 A New Model for Science Education
+
+This manifesto calls for a science education that is:
+
+- **Interdisciplinary**, not fragmented  
+- **Philosophically aware**, not technically blind  
+- **Future-oriented**, not backward-looking  
+- **Human-centered**, not machine-obsessed  
+
+It challenges educators to teach not just *what we know*, but *how we know*, *where knowledge lives*, and *who gets to define it*.
+
+---
+
+### 📚 Open Access & Reuse
+
+This document is published under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to:
+- ✅ Share — copy and redistribute the material
+- ✅ Adapt — remix, transform, and build upon it
+- 🔗 Just credit the original author: *Mehmet Keçeci*
+
+📥 **Source**: https://github.com/enformatik  
+📧 **Contact**: [your.email@example.com] *(optional)*
+
+---
+
+### 🙏 Closing
+
+This is not a eulogy for outdated ideas.  
+It is a **revival of a vision** — one that was ahead of its time, yet more relevant than ever.
+
+To educators, researchers, and thinkers:  
+Let this be an invitation.  
+To cross boundaries.  
+To question categories.  
+To imagine science not as a set of tools, but as a **way of being in the world**.
+
+Because the future of science will not be disciplinary.  
+It will be **interdisciplinary**.
+
+---
+
