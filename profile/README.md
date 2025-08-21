@@ -743,7 +743,7 @@ References:
 nobelprize.org/nobel_prizes/medicine/laureates/2003/index.html 
 124.	mehmetkececi.com/?p=258 
 125.	Cyborgs and Space in Astronautics (September 1960), by Manfred E. Clynes and Nathan S. Kline.
-126.	Jean-Pierre Dupuy, “The autonomy of social reality: on the contribution of systems theory to the theory of society” in: Elias L. Khalil & Kenneth E. Boulding eds., Evolution, Order and Complexity, 1986.
+126.	Jean-Pierre Dupuy, “The autonomy of social reality: on the contribution of systems theory to the theory of society” in: Elias L. Khalil & Kenneth E. Boulding eds., 1986
 127.	asimo.honda.com 
 128.	spectrum.ieee.org/biomedical/bionics/augmented-reality-in-a-contact-lens/0 
 129.	Ernst & Young LLP ve Guide to Biotechnology 2007 (The Guide to Biotechnology is compiled by the Biotechnology Industry Organization)
