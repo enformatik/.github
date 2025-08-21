@@ -481,7 +481,6 @@ You are free to:
 - 🔗 Just credit the original author: *Mehmet Keçeci*
 
 📥 **Source**: https://github.com/enformatik  
-📧 **Contact**: [your.email@example.com] *(optional)*
 
 ---
 
