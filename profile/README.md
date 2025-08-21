@@ -5,7 +5,7 @@
 
 Welcome to my open-source collection of bioinformatics, computational biology, and interdisciplinary science repositories.
 
-This GitHub profile hosts **over 140 repositories** developed between **2010 and 2024**, primarily as part of my teaching, research, and self-study in bioinformatics, physics, and information technologies. The materials include code examples, lecture notes, software tutorials, data analysis pipelines, and educational projects — many of which were used in university courses such as *Bioinformatics*, *Health Information Systems*, and *Scientific Programming*.
+This GitHub profile hosts **over 240 repositories** developed between **2010 and 2024**, primarily as part of my teaching, research, and self-study in bioinformatics, physics, and information technologies. The materials include code examples, lecture notes, software tutorials, data analysis pipelines, and educational projects — many of which were used in university courses such as *Bioinformatics*, *Health Information Systems*, and *Scientific Programming*.
 
 ## 📚 Nature of the Content
 
